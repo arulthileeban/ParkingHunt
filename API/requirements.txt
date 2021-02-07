@@ -1,0 +1,5 @@
+Flask==1.1.1
+sklearn
+numpy
+firebase-admin==2.13.0
+google-cloud-firestore==0.29.0
